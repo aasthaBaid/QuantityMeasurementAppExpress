@@ -1,0 +1,25 @@
+{
+  "name": "quantitymeasurementappexpress",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/aasthaBaid/QuantityMeasurementAppExpress#readme",
+  "bugs": {
+    "url": "https://github.com/aasthaBaid/QuantityMeasurementAppExpress/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aasthaBaid/QuantityMeasurementAppExpress.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "pg": "^8.20.0"
+  }
+}
